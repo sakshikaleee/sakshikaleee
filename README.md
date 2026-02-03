@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kale</h1>
-<h3 align="center">A AWS Cloud Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [Streamify](https://streamify-sigma-two.vercel.app/)
 
-- 🌱 I’m currently learning **Docker, Devops, & Kubernetes**
+- 🌱 I’m currently learning **Docker, Devops, Kubernetes & Node.js**
 
 - 💬 Ask me about **AWS, React.js, Next.js**
 
